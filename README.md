@@ -1,1 +1,1 @@
-# Exercise Tracker production App
+# Daily Tracker App
